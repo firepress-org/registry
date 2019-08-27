@@ -1,2 +1,2 @@
 # registry
-The docker images GitHub Package Registry, an alternative to Docker hub.
+GitHub Package Registry to store our docker images. An alternative to Docker hub.

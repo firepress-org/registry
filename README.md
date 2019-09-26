@@ -8,4 +8,4 @@ https://help.github.com/en/articles/about-github-package-registry?utm_source=ann
 
 ## GUI
 
-At this point, I don't think there is a GUI to see our docker images
+https://github.com/firepress-org/registry/packages
